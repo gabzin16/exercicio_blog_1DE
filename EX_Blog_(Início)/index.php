@@ -14,7 +14,6 @@
 // var_dump($posts);
 // print_r($posts);
 // echo"<br><br>";
-
 ?>
 
 <main>
